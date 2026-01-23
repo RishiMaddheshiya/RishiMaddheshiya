@@ -32,17 +32,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🤖 About Me
 
-- 🔭 Exploring **Artificial Intelligence & Machine Learning**
-- 📊 Working on **Data Science & Predictive Models**
-- 🧠 Interested in **Deep Learning, NLP & Computer Vision**
-- 🚀 Turning data into decisions
-## 🛠️ AI / ML Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter" />
-</p>
 
 ## 🐍 Contribution Graph
 
