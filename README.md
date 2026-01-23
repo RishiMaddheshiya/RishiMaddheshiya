@@ -37,7 +37,7 @@
 ## 🌆 My GitHub Contributions
 
 ![3D Contribution Graph](https://github.com/rishimaddheshiya
-/USERNAME:rishimaddheshiya/blob/main/profile-3d-contrib/profile-night-view.svg)
+/rishimaddheshiya/blob/main/profile-3d-contrib/profile-night-view.svg)
 
 
 
