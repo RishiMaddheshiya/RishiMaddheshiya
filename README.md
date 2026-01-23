@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=900&color=7DF9FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;AI+Research+Enthusiast;Neural+Networks+%7C+Data+Science;Turning+Data+Into+Intelligence" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Data+Science+Learner;Deep+Learning+Explorer;Building+Smart+Systems" />
 </p>
 
