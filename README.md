@@ -36,8 +36,8 @@
 
 ## 🐍 Contribution Graph
 
-![snake animation](https://github.com/USERNAME: rishimaddheshiya
-/USERNAME: rishimaddheshiya
+![snake animation](https://github.com/rishimaddheshiya
+/rishimaddheshiya
 /blob/output/github-contribution-grid-snake.svg)
 
 
