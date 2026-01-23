@@ -34,10 +34,9 @@
 
 
 
-## 🐍 Contribution Graph
+## 🌆 My GitHub Contributions
 
-![snake animation](https://github.com/rishimaddheshiya
-/rishimaddheshiya
-/blob/output/github-contribution-grid-snake.svg)
+![3D Contribution Graph](https://github.com/rishimaddheshiya/rishimaddheshiya/blob/main/profile-3d-contrib/profile-night-view.svg)
+
 
 
