@@ -34,6 +34,8 @@
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishimaddheshiya&theme=github-compact)
+## 🐍 Contribution Graph
+
+![snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
