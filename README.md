@@ -34,8 +34,5 @@
 
 
 
-## 🌆 Contribution Skyline
-
-![3D Contribution](https://github.com/USERNAME: rishimaddheshiya/USERNAME: rishimaddheshiya
-/blob/main/profile-3d-contrib/profile-night-view.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishimaddheshiya&theme=github-compact)
 
