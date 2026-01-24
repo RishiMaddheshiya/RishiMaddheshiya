@@ -1,18 +1,15 @@
-name: 3D Contribution Graph
+name: GitHub-Profile-3D-Contrib
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 18 * * *"
-
-permissions:
-  contents: write
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: yoshi389111/github-profile-3d-contrib@v0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: RishiMaddheshiya
